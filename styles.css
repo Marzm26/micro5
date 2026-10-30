@@ -1,0 +1,36 @@
+:root {
+  height: 100%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background: linear-gradient(180deg, rgb(166, 179, 141) 0%, rgb(153, 153, 153) 100%);
+}
+
+body {
+  background-color: #f3f3f3;
+  padding: 1em 2em 1em;
+  margin: 5em 5em 5em;
+  border: 0.1em solid white;
+  border-radius: 1em;
+}
+
+main {
+  padding: 2em;
+  float: left;
+}
+
+aside {
+  padding: 2em;
+  float: right;
+}
+
+footer{
+  padding-top: 30px;
+  clear: both;
+}
+
+p {
+  color: #3e3b3b;
+}
+
+li {
+  color: #3e3b3b;
+}
